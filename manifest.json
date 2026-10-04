@@ -1,0 +1,36 @@
+{
+ "name": "Global Dominion",
+ "short_name": "Dominion",
+ "description": "Стратегия: дипломатия и война",
+ "id": "/global-dominion/",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "any",
+ "background_color": "#0b1220",
+ "theme_color": "#0b1220",
+ "lang": "ru",
+ "categories": [
+  "games"
+ ],
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
