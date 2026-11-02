@@ -1,0 +1,8 @@
+{
+  "name": "zipo",
+  "version": "7.0.0",
+  "private": true,
+  "dependencies": {
+    "web-push": "^3.6.7"
+  }
+}
