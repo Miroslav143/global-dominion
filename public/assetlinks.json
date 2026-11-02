@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "app.netlify.zilo_mesenger.twa",
+        "sha256_cert_fingerprints": ["0A:99:3F:2D:26:75:2F:C1:0F:25:F1:CD:61:12:F1:68:39:82:0E:89:DB:79:CC:4C:00:C3:55:DC:2F:27:DC:35"]
+      }
+    }]
